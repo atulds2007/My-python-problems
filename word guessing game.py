@@ -1,4 +1,4 @@
-#Guess the rapper's names!
+ #Guess the rapper's names!
 
 import random
 word_bank = ['krsna', 'nas', 'kendrick', 'eminem', 'tupac']
